@@ -1,0 +1,21 @@
+:root{
+    /*    DEFINICAO DAS CORES     */
+    --cor-background: #00030C;
+    --cor-botao: #167BF7;
+    --cor-escrita-branco-principal:#FFFFFF; 
+    --cor-escrita-cinza-disclaimer: #C0C0C0;
+    --cor-escrita-branco-descricao: #F9F9F9;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--cor-background);
+    background-image: url(C:\Users\julia\Desktop\Alura\Alura\alura-plus\imagens\Background.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    
+}
